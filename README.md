@@ -18,3 +18,12 @@ Hover the image using the cursor and zoom this image
 
 ```bash
 $ command_to_run_system --option argument
+
+## Examples
+
+```javascript
+const mySystem = require('my-awesome-system');
+
+// Example usage
+const result = mySystem.doSomething();
+console.log(result);
